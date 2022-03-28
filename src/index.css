@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.background-image {
+  background-image: url(https://media.discordapp.net/attachments/409963714129690625/936415150477574154/bg.jpg?width=984&height=553);
+  background-repeat: repeat-y;
+  background-size: cover;
+  position: absolute;
+  height: 100vh; 
+  width: 100vw;
+  background-position: center; 
+
+}
+
+.gradient-custom {
+  background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  background-repeat: repeat-y;
+}
+
+.repeatku {
+  background-repeat: repeat-y;
+  background-size: cover;
+  position: absolute;
+  height: 100vh; 
+  width: 100vw;
+  background-position: center; 
+}
+
+.kecil {
+  font-size:15px;
+}
+
+.xkecil {
+  font-size:13px;
+}
